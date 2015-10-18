@@ -1,0 +1,12 @@
+C:\Azadeh\MarsRover\MarsRover\Rover.App\bin\Debug\Rover.App.exe.config
+C:\Azadeh\MarsRover\MarsRover\Rover.App\bin\Debug\Rover.App.exe
+C:\Azadeh\MarsRover\MarsRover\Rover.App\bin\Debug\Rover.App.pdb
+C:\Azadeh\MarsRover\MarsRover\Rover.App\obj\Debug\Rover.App.exe
+C:\Azadeh\MarsRover\MarsRover\Rover.App\obj\Debug\Rover.App.pdb
+C:\Azadeh\MarsRover\MarsRover\Rover.App\obj\Debug\Rover.App.csprojResolveAssemblyReference.cache
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\bin\Debug\Rover.App.exe.config
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\obj\Debug\Rover.App.exe
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\obj\Debug\Rover.App.pdb
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\bin\Debug\Rover.App.exe
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\bin\Debug\Rover.App.pdb
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\obj\Debug\Rover.App.csprojResolveAssemblyReference.cache

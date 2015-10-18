@@ -1,0 +1,14 @@
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\bin\Debug\ToyRobot.App.exe.config
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\bin\Debug\ToyRobot.App.exe
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\bin\Debug\ToyRobot.App.pdb
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\obj\Debug\ToyRobot.App.exe
+C:\Personal\Exercise\ToyRobot\MarsRover\Rover.App\obj\Debug\ToyRobot.App.pdb
+C:\Personal\Exercise\ToyRobot\ToyRobot\ToyRobot.App\bin\Debug\ToyRobot.App.exe.config
+C:\Personal\Exercise\ToyRobot\ToyRobot\ToyRobot.App\obj\Debug\ToyRobot.App.exe
+C:\Personal\Exercise\ToyRobot\ToyRobot\ToyRobot.App\obj\Debug\ToyRobot.App.pdb
+C:\GitHub\toyrobot\ToyRobot.App\bin\Debug\ToyRobot.App.exe.config
+C:\GitHub\toyrobot\ToyRobot.App\bin\Debug\ToyRobot.App.exe
+C:\GitHub\toyrobot\ToyRobot.App\bin\Debug\ToyRobot.App.pdb
+C:\GitHub\toyrobot\ToyRobot.App\obj\Debug\ToyRobot.App.csprojResolveAssemblyReference.cache
+C:\GitHub\toyrobot\ToyRobot.App\obj\Debug\ToyRobot.App.exe
+C:\GitHub\toyrobot\ToyRobot.App\obj\Debug\ToyRobot.App.pdb
